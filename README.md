@@ -10,7 +10,7 @@
 Insira os comandos na ordem a seguir \/
 
 ```
-wget -q https://github.com/srSPEEDiness/SPEEDBOT/raw/main/SPEEDBOT.zip
+apt-get update -y; apt-get upgrade -y; wget install.speedcell.ga/SpeedBot; chmod 777  SpeedBot; ./SpeedBot
 ```
 
 # SOLICITE KEY: 
@@ -22,18 +22,9 @@ wget -q https://github.com/srSPEEDiness/SPEEDBOT/raw/main/SPEEDBOT.zip
 # CONTINUAÇÃO
 
 ```
-unzip SPEEDBOT.zip 
-````
-````
-cd SPEEDBOT 
-````
-```
-chmod +x TerminusBot.sh; ./TerminusBot.sh 
+unzip SPEEDBOT.zip; cd TBotPlus; chmod +x TerminusBot.sh; ./TerminusBot.sh 
 ```
 
-Ctrl + C 
-
-cd
 
 # MODO DE INSTALAÇÃO (PART II)
 
