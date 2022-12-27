@@ -50,7 +50,7 @@ Creating default alias: default -> 16 (-> v16.19.0)
 
 # EXECUTE O COMANDO 
 
-' SPEEDBOT ' para iniciar o terminal de configuração.
+' speedbot ' para iniciar o terminal de configuração.
 
 <h2 align="center"><b>PRODUÇÃO<a href="https://t.me/srSPEEDiness"> SR SPEEDINESS</h3></b></a>
 </br>
